@@ -1,1 +1,42 @@
 
+# Azure Cloud Security Projects
+
+This section contains hands-on implementations of security controls in Microsoft Azure environments, demonstrating practical application of cloud security principles.
+
+## Projects Overview
+
+### [Lab 03: Azure Firewall Implementation](./Lab-03-Azure-Firewall/)
+
+Deployed and configured Azure Firewall as a centralised network security control with custom routing and rule-based filtering.
+
+**Key Achievements**:
+- Implemented network segmentation with three isolated subnets
+- Configured User-Defined Routes to force traffic inspection
+- Created FQDN-based application rules for web filtering
+- Established protocol-level network rules for DNS resolution
+- Validated defense-in-depth security architecture
+
+**Technologies**: Azure Firewall, Virtual Networks, User-Defined Routes, Network Security Groups
+
+---
+
+### Lab 07: Microsoft Defender for Cloud *(Coming Soon)*
+
+Implementation of advanced threat protection and security posture management.
+
+---
+
+*Last Updated: [Current Date]*
+```
+
+4. **Commit the file** with message: `Add Azure Cloud Security section`
+
+---
+
+### **Step 6: Create Lab 03 Detailed Page**
+
+1. **Click "Add file"** → **"Create new file"**
+
+2. **Filename**:
+```
+   Azure-Cloud-Security/Lab-03-Azure-Firewall/README.md
