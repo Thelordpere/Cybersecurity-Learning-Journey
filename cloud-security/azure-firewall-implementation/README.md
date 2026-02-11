@@ -25,5 +25,5 @@ Deployed Azure Firewall as a centralised network security solution to control ne
 
 ---
 
-**Project Date**: December 2024  
+**Project Date**: February 2026  
 **Duration**: 3 hours
