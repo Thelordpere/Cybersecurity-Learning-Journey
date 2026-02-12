@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Cloud Security Projects
+---
 # Cloud Security Projects
 
 This section contains my hands-on implementations of security controls in Microsoft Azure environments, demonstrating practical application of cloud security principles for Prafydob Corp.
