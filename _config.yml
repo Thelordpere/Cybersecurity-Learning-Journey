@@ -1,0 +1,22 @@
+# Website Settings
+title: "Cybersecurity Portfolio"
+description: "Professional cybersecurity projects and implementations"
+author: "Geku Pereowei Richard"
+
+# Theme (this makes it look professional)
+theme: jekyll-theme-cayman
+
+# These settings make your nested folders work
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+# This makes sure README files show up as pages
+include:
+  - README.md
+  - cloud-security/README.md
+  - cloud-security/azure-firewall-implementation/README.md
+  - threat-intelligence/README.md
+```
