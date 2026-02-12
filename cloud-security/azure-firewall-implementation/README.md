@@ -1,3 +1,7 @@
+---
+layout: default
+title: Azure Firewall Implementation
+---
 # Azure Firewall Implementation
 
 Deployed Azure Firewall as a centralised network security solution to control network traffic for Prafydob Corp.
