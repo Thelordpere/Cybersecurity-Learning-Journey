@@ -62,4 +62,4 @@ Hands-on experience with threat intelligence platforms and security information 
 
 *This portfolio is actively maintained and updated with new security projects.*
 
-**Last Updated**: December 2024
+**Last Updated**: February 2026
